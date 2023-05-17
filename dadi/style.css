@@ -1,0 +1,23 @@
+body{
+    background-color: navy;
+}
+
+main{
+    width: 80%;
+    height:500px;
+    background-color: white;
+    margin: 5% auto;
+    border-radius: 5%;
+}
+
+.green{
+    color: green;
+}
+
+.red{
+    color:red;
+}
+
+.yellow{
+    color:goldenrod;
+}
